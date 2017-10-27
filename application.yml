@@ -9,11 +9,8 @@ eureka:
     fetchRegistry:false
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-   
       
-foo: baz
-
-
+      
 ---
 spring:
   profiles: cloud
