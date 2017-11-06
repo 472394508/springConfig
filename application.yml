@@ -13,7 +13,7 @@ security:
   basic:
 user:
   name: user
-  password: password123  
+  password: password123
 ---
 spring:
   profiles: cloud
