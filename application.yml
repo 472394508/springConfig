@@ -11,9 +11,9 @@ eureka:
     fetchRegistry: false
 security:
   basic:
-user:
-  name: user
-  password: password123
+  user:
+    name: user
+    password: password123
 ---
 spring:
   profiles: cloud
