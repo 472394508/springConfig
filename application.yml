@@ -11,7 +11,7 @@ eureka:
     fetchRegistry: false
 security:
   basic:
-user
+user:
   name: user
   password: password123  
 ---
